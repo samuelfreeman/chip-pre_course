@@ -1,0 +1,2 @@
+// navigated to the repo and type this code
+git pull origin main
